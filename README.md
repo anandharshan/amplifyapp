@@ -1,0 +1,2 @@
+# amplifyapp
+Test application
